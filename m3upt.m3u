@@ -23,7 +23,7 @@ https://rr.cdnlab.vodafone.pt/shls_VTV_LIVE/LIVE$11/index.m3u8?start=LIVE&end=EN
 #EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjUgNzoxMDo1IEFNJmhhc2hfdmFsdWU9Q1YzcjBKcGRuOEMrbmplTVBWZlM5QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3OWVjODdkLWQwYmQtNDFlYy04Y2IzLWI2NWYxNmQ1MTlhMg==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjUgODoxMzo0NCBBTSZoYXNoX3ZhbHVlPThzS0IrdDNKZXdwMDNoRlhwdEl1M3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZGU5N2Q5NS1jY2M0LTQ2ZjctYWI0OC1lZmNiNWMwNDcxMzQ=/
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #KODIPROP:inputstream=inputstream.adaptive
@@ -39,7 +39,7 @@ https://rr.cdnlab.vodafone.pt/shls_VTV_LIVE/LIVE$13/index.m3u8?start=LIVE&end=EN
 #EXTINF:-1 group-title="TV" tvg-id="CNN.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjUgNzoxMDo2IEFNJmhhc2hfdmFsdWU9QkZlTDA5ako4bUd3MVBRYWZOK2g2dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTM1OTE4OWE0LWIxMGMtNDYwMC1iNWY2LWI5NTBmNjFiNGE4Yw==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjUgODoxMzo0NSBBTSZoYXNoX3ZhbHVlPWZyREd3djNKU2Q1RXNuTW52Z0RQSkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02MzdkNDliNi02YWRhLTQ4ZTQtYThkMS02M2ZkMjhjNDUwMjc=/
 
 #EXTINF:-1 group-title="TV" tvg-id="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
 #KODIPROP:inputstream=inputstream.adaptive
@@ -89,7 +89,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-age
 #EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjUgNzoxMDo3IEFNJmhhc2hfdmFsdWU9cENuNzMyQVVxZVd4VnA3a0dRa3BJdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUyZTMzMTM4LWEzMzktNGY1My1hM2QxLTBjYzJkYjc0ZDlmMQ==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjUgODoxMzo0NiBBTSZoYXNoX3ZhbHVlPWhxcHZDd3Y2ZitqQ1U3eUU3Y0tPaUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02ZWNlYzI3OS1kMThiLTRmOGItOTA5Yy0yNzk0YjA4MjVjNDE=/
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 #KODIPROP:inputstream=inputstream.adaptive
